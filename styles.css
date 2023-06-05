@@ -185,8 +185,8 @@ a {
         right: 40px;
     }
     #copied {
-        position: fixed;
-        top: 350px;
-        right: 40px;
+        position: relative;
+        top: -50px;
+        left: 250px;
     }
 }
